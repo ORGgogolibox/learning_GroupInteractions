@@ -27,4 +27,4 @@ m = int(input("Enter m (position in Fibonacci sequence): "))
 print(fibonacci(m))
 
 #The following line will be both chaged by branch 1 & branch 2 
-print("This is branch 2. program finished. bye bye!")
+print("End of program. bye bye!")
