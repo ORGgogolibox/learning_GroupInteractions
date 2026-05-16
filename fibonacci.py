@@ -21,4 +21,5 @@ def fibonacci(n):
             b = c
         return b
 
-print(fibonacci(9))
+m = int(input("Enter m (position in Fibonacci sequence): "))
+print(fibonacci(m))
