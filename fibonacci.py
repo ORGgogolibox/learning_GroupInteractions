@@ -1,5 +1,4 @@
-print("Welcome!!!")
-print("This Fibonacci program:")
+print("Welcome!!!  \nThis Fibonacci program:")
 
 def fibonacci(n):
     a = 0
